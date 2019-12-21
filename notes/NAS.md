@@ -1,0 +1,311 @@
+---
+author: Daivd Zhang
+category: deep_learning
+title: Neural Architecture Search
+date: 2019-12-21
+---
+
+# Papers
+
+**Neural Architecture Search with Reinforcement Learning**
+
+- intro: Google Brain
+- paper: [https://openreview.net/pdf?id=r1Ue8Hcxg](https://openreview.net/pdf?id=r1Ue8Hcxg)
+
+**Neural Optimizer Search with Reinforcement Learning**
+
+- intro: ICML 2017
+- arxiv: [https://arxiv.org/abs/1709.07417](https://arxiv.org/abs/1709.07417)
+
+**Learning Transferable Architectures for Scalable Image Recognition**
+
+- intro: Google Brain
+- keywords: Neural Architecture Search Network (NASNet), AutoML
+- arxiv: [https://arxiv.org/abs/1707.07012](https://arxiv.org/abs/1707.07012)
+- gtihub: [https://github.com//titu1994/Keras-NASNet](https://github.com//titu1994/Keras-NASNet)
+- blog: [https://research.googleblog.com/2017/11/automl-for-large-scale-image.html](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)
+- github: [https://github.com/titu1994/neural-architecture-search](https://github.com/titu1994/neural-architecture-search)
+
+**The First Step-by-Step Guide for Implementing Neural Architecture Search with Reinforcement Learning Using TensorFlow**
+
+- blog: [https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28](https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-architecture-search-with-reinforcement-99ade71b3d28)
+- github: [https://github.com/wallarm/nascell-automl](https://github.com/wallarm/nascell-automl)
+
+**Practical Network Blocks Design with Q-Learning**
+
+[https://arxiv.org/abs/1708.05552](https://arxiv.org/abs/1708.05552)
+
+**Transfer Learning to Learn with Multitask Neural Model Search**
+
+- intro: Stanford University & Google Research
+- keywords: Multitask Neural Model Search (MNMS)
+- arxiv: [https://arxiv.org/abs/1710.10776](https://arxiv.org/abs/1710.10776)
+
+**Simple And Efficient Architecture Search for Convolutional Neural Networks**
+
+- intro: Bosch Center for Artificial Intelligence & University of Freiburg
+- arxiv: [https://arxiv.org/abs/1711.04528](https://arxiv.org/abs/1711.04528)
+
+**Progressive Neural Architecture Search**
+
+- intri: Johns Hopkins University & Google Brain & Google Cloud & Stanford University & Google AI
+- arxiv: [https://arxiv.org/abs/1712.00559](https://arxiv.org/abs/1712.00559)
+
+**Finding Competitive Network Architectures Within a Day Using UCT**
+
+- intro: IBM Research AI – Ireland
+- arxiv: [https://arxiv.org/abs/1712.07420](https://arxiv.org/abs/1712.07420)
+
+**Regularized Evolution for Image Classifier Architecture Search**
+
+[https://arxiv.org/abs/1802.01548](https://arxiv.org/abs/1802.01548)
+
+**Efficient Neural Architecture Search via Parameters Sharing**
+
+- intro: Google Brain & CMU & Stanford University
+- arxiv: [https://arxiv.org/abs/1802.03268](https://arxiv.org/abs/1802.03268)
+- github: [https://github.com/carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch)
+- github: [https://github.com/melodyguan/enas](https://github.com/melodyguan/enas)
+
+**Neural Architecture Search with Bayesian Optimisation and Optimal Transport**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1802.07191](https://arxiv.org/abs/1802.07191)
+
+**AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search**
+
+- intro: Brown University & Northeastern University
+- arxiv: [https://arxiv.org/abs/1805.07440](https://arxiv.org/abs/1805.07440)
+
+**DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures**
+
+- intro: National Tsing-Hua University & Google
+[https://arxiv.org/abs/1806.08198](https://arxiv.org/abs/1806.08198)
+
+**DARTS: Differentiable Architecture Search**
+
+- intro: ICLR 2019
+- intro: Google & CMU
+- arxiv: [https://arxiv.org/abs/1806.09055](https://arxiv.org/abs/1806.09055)
+- github(official): [https://github.com/dragen1860/DARTS-PyTorch](https://github.com/dragen1860/DARTS-PyTorch)
+- gtihub: [https://github.com/quark0/darts](https://github.com/quark0/darts)
+
+**DARTS+: Improved Differentiable Architecture Search with Early Stopping**
+
+[https://arxiv.org/abs/1909.06035](https://arxiv.org/abs/1909.06035)
+
+**Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search**
+
+- intro: ICML 2018 AutoML Workshop
+- intro: University of Freiburg
+- arxiv: [https://arxiv.org/abs/1807.06906](https://arxiv.org/abs/1807.06906)
+
+**MnasNet: Platform-Aware Neural Architecture Search for Mobile**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1807.11626](https://arxiv.org/abs/1807.11626)
+- github: [https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet)
+
+**Efficient Progressive Neural Architecture Search**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1808.00391](https://arxiv.org/abs/1808.00391)
+
+**Reinforced Evolutionary Neural Architecture Search**
+
+[https://arxiv.org/abs/1808.00193](https://arxiv.org/abs/1808.00193)
+
+**Teacher Guided Architecture Search**
+
+[https://arxiv.org/abs/1808.01405](https://arxiv.org/abs/1808.01405)
+
+**BlockQNN: Efficient Block-wise Neural Network Architecture Generation**
+
+[https://arxiv.org/abs/1808.05584](https://arxiv.org/abs/1808.05584)
+
+**Neural Architecture Search: A Survey**
+
+- intro: Bosch Center for Artificial Intelligence & University of Freiburg
+- arxiv: [https://arxiv.org/abs/1808.05377](https://arxiv.org/abs/1808.05377)
+
+**Searching for Efficient Multi-Scale Architectures for Dense Image Prediction**
+
+- intro: NIPS 2018
+- intro: Google Inc.
+- arxiv: [https://arxiv.org/abs/1809.04184](https://arxiv.org/abs/1809.04184)
+
+**NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search**
+
+- arxiv: [https://arxiv.org/abs/1810.03522](https://arxiv.org/abs/1810.03522)
+- gtihub: [https://github.com/ianwhale/nsga-net](https://github.com/ianwhale/nsga-net)
+
+**Graph HyperNetworks for Neural Architecture Search**
+
+[https://arxiv.org/abs/1810.05749](https://arxiv.org/abs/1810.05749)
+
+**Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells**
+
+[https://arxiv.org/abs/1810.10804](https://arxiv.org/abs/1810.10804)
+
+**InstaNAS: Instance-aware Neural Architecture Search**
+
+- intro: ICML 2019 AutoML Workshop
+- project page: [https://hubert0527.github.io/InstaNAS/](https://hubert0527.github.io/InstaNAS/)
+- arxiv: [https://arxiv.org/abs/1811.10201](https://arxiv.org/abs/1811.10201)
+- github: [https://github.com/AnjieZheng/InstaNAS](https://github.com/AnjieZheng/InstaNAS)
+
+**ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1812.00332](https://arxiv.org/abs/1812.00332)
+- github: [https://github.com/MIT-HAN-LAB/ProxylessNAS](https://github.com/MIT-HAN-LAB/ProxylessNAS)
+
+**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**
+
+- intro: UC Berkeley & Princeton University & Facebook Inc.
+- arxiv: [https://arxiv.org/abs/1812.03443](https://arxiv.org/abs/1812.03443)
+
+**IRLAS: Inverse Reinforcement Learning for Architecture Search**
+
+- intro: SenseTime & CUHK
+- arxiv: [https://arxiv.org/abs/1812.05285](https://arxiv.org/abs/1812.05285)
+
+**EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search**
+
+- intro: Huazhong University of Science and Technology & Horizon Robotics & Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1901.05884](https://arxiv.org/abs/1901.05884)
+
+**DVOLVER: Efficient Pareto-Optimal Neural Network Architecture Search**
+
+[https://arxiv.org/abs/1902.01654](https://arxiv.org/abs/1902.01654)
+
+**MFAS: Multimodal Fusion Architecture Search**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.06496](https://arxiv.org/abs/1903.06496)
+
+**Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1903.03777](https://arxiv.org/abs/1903.03777)
+
+**sharpDARTS: Faster and More Accurate Differentiable Architecture Search**
+
+[https://arxiv.org/abs/1903.09900](https://arxiv.org/abs/1903.09900)
+
+**Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers**
+
+[https://arxiv.org/abs/1903.11728](https://arxiv.org/abs/1903.11728)
+
+**AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search**
+
+- intro: Brown University & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1903.11059](https://arxiv.org/abs/1903.11059)
+- github: [https://github.com/linnanwang/AlphaX-NASBench101](https://github.com/linnanwang/AlphaX-NASBench101)
+
+**Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours**
+
+[https://arxiv.org/abs/1904.02877](https://arxiv.org/abs/1904.02877)
+[https://github.com/dstamoulis/single-path-nas](https://github.com/dstamoulis/single-path-nas)
+
+**Resource Constrained Neural Network Architecture Search**
+
+[https://arxiv.org/abs/1904.03786](https://arxiv.org/abs/1904.03786)
+
+**NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.07392](https://arxiv.org/abs/1904.07392)
+
+**Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation**
+
+[https://arxiv.org/abs/1904.12760](https://arxiv.org/abs/1904.12760)
+
+**Searching for MobileNetV3**
+
+- intro: Google AI & Google Brain
+- arxiv: [https://arxiv.org/abs/1905.02244](https://arxiv.org/abs/1905.02244)
+
+**Network Pruning via Transformable Architecture Search**
+
+- arxiv: [https://arxiv.org/abs/1905.09717](https://arxiv.org/abs/1905.09717)
+- github: [https://github.com/D-X-Y/TAS](https://github.com/D-X-Y/TAS)
+
+**EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**
+
+- intro: ICML 2019
+- arxiv: [https://arxiv.org/abs/1905.11946](https://arxiv.org/abs/1905.11946)
+- github(official, TensorFlow): [https://github.com/mingxingtan/efficientnet](https://github.com/mingxingtan/efficientnet)
+- github: [https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
+
+**Dynamic Distribution Pruning for Efficient Network Architecture Search**
+
+- arxiv: [https://arxiv.org/abs/1905.13543](https://arxiv.org/abs/1905.13543)
+- github: [https://github.com/tanglang96/DDPNAS](https://github.com/tanglang96/DDPNAS)
+
+**XNAS: Neural Architecture Search with Expert Advice**
+
+- intro: Machine Intelligence Technology, Alibaba Group
+- arxiv: [https://arxiv.org/abs/1906.08031](https://arxiv.org/abs/1906.08031)
+
+**FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search**
+
+- intro: Xiaomi AI Lab
+- arxiv: [https://arxiv.org/abs/1907.01845](https://arxiv.org/abs/1907.01845)
+- github: [https://github.com/fairnas/FairNAS](https://github.com/fairnas/FairNAS)
+
+**PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search**
+
+- arxiv: [https://arxiv.org/abs/1907.05737](https://arxiv.org/abs/1907.05737)
+- github: [https://github.com/yuhuixu1993/PC-DARTS](https://github.com/yuhuixu1993/PC-DARTS)
+
+**XferNAS: Transfer Neural Architecture Search**
+
+[https://arxiv.org/abs/1907.08307](https://arxiv.org/abs/1907.08307)
+
+**ScarletNAS: Bridging the Gap Between Scalability and Fairness in Neural Architecture Search**
+
+- intro: Xiaomi AI Lab
+- arxiv: [https://arxiv.org/abs/1908.06022](https://arxiv.org/abs/1908.06022)
+- github: [https://github.com/xiaomi-automl/SCARLET-NAS](https://github.com/xiaomi-automl/SCARLET-NAS)
+
+**MANAS: Multi-Agent Neural Architecture Search**
+
+[https://arxiv.org/abs/1909.01051](https://arxiv.org/abs/1909.01051)
+
+**HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking**
+
+- intro: ICCV 2019 Neural Architects Workshop
+- arxiv: [https://arxiv.org/abs/1909.00122](https://arxiv.org/abs/1909.00122)
+
+**CARS: Continuous Evolution for Efficient Neural Architecture Search**
+
+[https://arxiv.org/abs/1909.04977](https://arxiv.org/abs/1909.04977)
+
+**Understanding and Robustifying Differentiable Architecture Search**
+
+[https://arxiv.org/abs/1909.09656](https://arxiv.org/abs/1909.09656)
+
+**StacNAS: Towards stable and consistent optimization for differentiable Neural Architecture Search**
+
+[https://arxiv.org/abs/1909.11926](https://arxiv.org/abs/1909.11926)
+
+**Scheduled Differentiable Architecture Search for Visual Recognition**
+
+[https://arxiv.org/abs/1909.10236](https://arxiv.org/abs/1909.10236)
+
+**Searching for A Robust Neural Architecture in Four GPU Hours**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1910.04465](https://arxiv.org/abs/1910.04465)
+- github: [https://github.com/D-X-Y/NAS-Projects](https://github.com/D-X-Y/NAS-Projects)
+
+**One-Shot Neural Architecture Search via Self-Evaluated Template Network**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1910.05733](https://arxiv.org/abs/1910.05733)
+- github: [https://github.com/D-X-Y/NAS-Projects](https://github.com/D-X-Y/NAS-Projects)
+
+**Binarized Neural Architecture Search**
+
+[https://arxiv.org/abs/1911.10862](https://arxiv.org/abs/1911.10862)

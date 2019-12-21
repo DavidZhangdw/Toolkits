@@ -1,0 +1,814 @@
+---
+author: David Zhang
+category: Deep Learning, Computer Vision
+title: Tracking
+date: 2019-12-21
+---
+
+# Single Object Tracking
+
+**Learning A Deep Compact Image Representation for Visual Tracking**
+
+- intro: NIPS 2013
+- intro: DLT
+- project page: [http://winsty.net/dlt.html](http://winsty.net/dlt.html)
+
+**Hierarchical Convolutional Features for Visual Tracking**
+
+- intro: ICCV 2015
+- project page: [https://sites.google.com/site/jbhuang0604/publications/cf2](https://sites.google.com/site/jbhuang0604/publications/cf2)
+- github: [https://github.com/jbhuang0604/CF2](https://github.com/jbhuang0604/CF2)
+
+**Robust Visual Tracking via Convolutional Networks**
+
+- arxiv: [http://arxiv.org/abs/1501.04505](http://arxiv.org/abs/1501.04505)
+- paper: [http://kaihuazhang.net/CNT.pdf](http://kaihuazhang.net/CNT.pdf)
+- code: [http://kaihuazhang.net/CNT_matlab.rar](http://kaihuazhang.net/CNT_matlab.rar)
+
+**Transferring Rich Feature Hierarchies for Robust Visual Tracking**
+
+- intro: SO-DLT
+- arxiv: [http://arxiv.org/abs/1501.04587](http://arxiv.org/abs/1501.04587)
+- slides: [http://valse.mmcheng.net/ftp/20150325/RVT.pptx](http://valse.mmcheng.net/ftp/20150325/RVT.pptx)
+
+**Learning Multi-Domain Convolutional Neural Networks for Visual Tracking**
+
+- intro: The Winner of The VOT2015 Challenge
+- keywords: Multi-Domain Network (MDNet)
+- homepage: [http://cvlab.postech.ac.kr/research/mdnet/](http://cvlab.postech.ac.kr/research/mdnet/)
+- arxiv: [http://arxiv.org/abs/1510.07945](http://arxiv.org/abs/1510.07945)
+- github: [https://github.com/HyeonseobNam/MDNet](https://github.com/HyeonseobNam/MDNet)
+
+**RATM: Recurrent Attentive Tracking Model**
+
+- arxiv: [http://arxiv.org/abs/1510.08660](http://arxiv.org/abs/1510.08660)
+- github: [https://github.com/saebrahimi/RATM](https://github.com/saebrahimi/RATM)
+
+**Understanding and Diagnosing Visual Tracking Systems**
+
+![](http://winsty.net/diagnose/pipeline.png)
+
+- intro: ICCV 2015
+- project page: [http://winsty.net/tracker_diagnose.html](http://winsty.net/tracker_diagnose.html)
+- paper: [http://winsty.net/papers/diagnose.pdf](http://winsty.net/papers/diagnose.pdf)
+- code(Matlab): [http://120.52.72.43/winsty.net/c3pr90ntcsf0/diagnose/diagnose_code.zip](http://120.52.72.43/winsty.net/c3pr90ntcsf0/diagnose/diagnose_code.zip)
+
+**Recurrently Target-Attending Tracking**
+
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.html](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.html)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.pdf)
+
+**Visual Tracking with Fully Convolutional Networks**
+
+- intro: ICCV 2015
+- paper: [http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)
+- github: [https://github.com/scott89/FCNT](https://github.com/scott89/FCNT)
+
+**Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks**
+
+- intro: AAAI 2016
+- arxiv: [http://arxiv.org/abs/1602.00991](http://arxiv.org/abs/1602.00991)
+- github: [https://github.com/pondruska/DeepTracking](https://github.com/pondruska/DeepTracking)
+
+**Learning to Track at 100 FPS with Deep Regression Networks**
+
+![](http://davheld.github.io/GOTURN/pull7f-web_e2.png)
+
+- intro: ECCV 2015
+- intro: GOTURN: Generic Object Tracking Using Regression Networks
+- project page: [http://davheld.github.io/GOTURN/GOTURN.html](http://davheld.github.io/GOTURN/GOTURN.html)
+- arxiv: [http://arxiv.org/abs/1604.01802](http://arxiv.org/abs/1604.01802)
+- github: [https://github.com/davheld/GOTURN](https://github.com/davheld/GOTURN)
+
+**Learning by tracking: Siamese CNN for robust target association**
+
+- arxiv: [http://arxiv.org/abs/1604.07866](http://arxiv.org/abs/1604.07866)
+
+**Fully-Convolutional Siamese Networks for Object Tracking**
+
+![](http://www.robots.ox.ac.uk/~luca/stuff/siamesefc_conv-explicit.jpg)
+
+- intro: ECCV 2016
+- intro: State-of-the-art performance in arbitrary object tracking at 50-100 FPS with Fully Convolutional Siamese networks
+- project page: [http://www.robots.ox.ac.uk/~luca/siamese-fc.html](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
+- arxiv: [http://arxiv.org/abs/1606.09549](http://arxiv.org/abs/1606.09549)
+- github(official): [https://github.com/bertinetto/siamese-fc](https://github.com/bertinetto/siamese-fc)
+- github(official): [https://github.com/torrvision/siamfc-tf](https://github.com/torrvision/siamfc-tf)
+- valse-video: [http://www.iqiyi.com/w_19ruirwrel.html#vfrm=8-8-0-1](http://www.iqiyi.com/w_19ruirwrel.html#vfrm=8-8-0-1)
+
+**Hedged Deep Tracking**
+
+- project page(paper+code): [https://sites.google.com/site/yuankiqi/hdt](https://sites.google.com/site/yuankiqi/hdt)
+- paper: [https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx5dWFua2lxaXxneDoxZjc2MmYwZGIzNjFhYTRl](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx5dWFua2lxaXxneDoxZjc2MmYwZGIzNjFhYTRl)
+
+**Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking**
+
+![](http://guanghan.info/projects/ROLO/overview.jpeg)
+
+- intro: ROLO is short for Recurrent YOLO, aimed at simultaneous object detection and tracking
+- project page: [http://guanghan.info/projects/ROLO/](http://guanghan.info/projects/ROLO/)
+- arxiv: [http://arxiv.org/abs/1607.05781](http://arxiv.org/abs/1607.05781)
+- github: [https://github.com/Guanghan/ROLO](https://github.com/Guanghan/ROLO)
+
+**Visual Tracking via Shallow and Deep Collaborative Model**
+
+- arxiv: [http://arxiv.org/abs/1607.08040](http://arxiv.org/abs/1607.08040)
+
+**Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking**
+
+![](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/method_fig.jpg)
+
+- intro: ECCV 2016
+- intro: OTB-2015 (+5.1% in mean OP), Temple-Color (+4.6% in mean OP), and VOT2015 (20% relative reduction in failure rate)
+- keywords: Continuous Convolution Operator Tracker (C-COT)
+- project page: [http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html)
+- arxiv: [http://arxiv.org/abs/1608.03773](http://arxiv.org/abs/1608.03773)
+- github(MATLAB): [https://github.com/martin-danelljan/Continuous-ConvOp](https://github.com/martin-danelljan/Continuous-ConvOp)
+
+**Unsupervised Learning from Continuous Video in a Scalable Predictive Recurrent Network**
+
+- keywords: Predictive Vision Model (PVM)
+- arxiv: [http://arxiv.org/abs/1607.06854](http://arxiv.org/abs/1607.06854)
+- github: [https://github.com/braincorp/PVM](https://github.com/braincorp/PVM)
+
+**Modeling and Propagating CNNs in a Tree Structure for Visual Tracking**
+
+- arxiv: [http://arxiv.org/abs/1608.07242](http://arxiv.org/abs/1608.07242)
+
+**Robust Scale Adaptive Kernel Correlation Filter Tracker With Hierarchical Convolutional Features**
+
+- paper: [http://ieeexplore.ieee.org/document/7496863/](http://ieeexplore.ieee.org/document/7496863/)
+
+**Deep Tracking on the Move: Learning to Track the World from a Moving Vehicle using Recurrent Neural Networks**
+
+- arxiv: [https://arxiv.org/abs/1609.09365](https://arxiv.org/abs/1609.09365)
+
+**OTB Results: visual tracker benchmark results**
+
+- github: [https://github.com/foolwood/benchmark_results](https://github.com/foolwood/benchmark_results)
+
+**Convolutional Regression for Visual Tracking**
+
+- arxiv: [https://arxiv.org/abs/1611.04215](https://arxiv.org/abs/1611.04215)
+
+**Semantic tracking: Single-target tracking with inter-supervised convolutional networks**
+
+- arxiv: [https://arxiv.org/abs/1611.06395](https://arxiv.org/abs/1611.06395)
+
+**SANet: Structure-Aware Network for Visual Tracking**
+
+- arxiv: [https://arxiv.org/abs/1611.06878](https://arxiv.org/abs/1611.06878)
+
+**ECO: Efficient Convolution Operators for Tracking**
+
+![](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/method_fig.jpg)
+
+- intro: CVPR 2017
+- project page: [http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html)
+- arxiv: [https://arxiv.org/abs/1611.09224](https://arxiv.org/abs/1611.09224)
+- github: [https://github.com/martin-danelljan/ECO](https://github.com/martin-danelljan/ECO)
+
+**Dual Deep Network for Visual Tracking**
+
+- arxiv: [https://arxiv.org/abs/1612.06053](https://arxiv.org/abs/1612.06053)
+
+**Deep Motion Features for Visual Tracking**
+
+- intro: ICPR 2016. Best paper award in the "Computer Vision and Robot Vision" track
+- arxiv: [https://arxiv.org/abs/1612.06615](https://arxiv.org/abs/1612.06615)
+
+**Globally Optimal Object Tracking with Fully Convolutional Networks**
+
+- arxiv: [https://arxiv.org/abs/1612.08274](https://arxiv.org/abs/1612.08274)
+
+**Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation**
+
+- arxiv: [https://arxiv.org/abs/1701.00561](https://arxiv.org/abs/1701.00561)
+- bitbucket: [https://bitbucket.org/xinke_wang/msdat](https://bitbucket.org/xinke_wang/msdat)
+
+**Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
+
+- arxiv: [https://arxiv.org/abs/1701.01909](https://arxiv.org/abs/1701.01909)
+
+**Large Margin Object Tracking with Circulant Feature Maps**
+
+- intro: CVPR 2017
+- intro: The experimental results demonstrate that the proposed tracker performs superiorly against several state-of-the-art algorithms on the challenging benchmark sequences while runs at speed in excess of 80 frames per secon
+- arxiv: [https://arxiv.org/abs/1703.05020](https://arxiv.org/abs/1703.05020)
+- notes: [https://zhuanlan.zhihu.com/p/25761718](https://zhuanlan.zhihu.com/p/25761718)
+
+**DCFNet: Discriminant Correlation Filters Network for Visual Tracking**
+
+- arxiv: [https://arxiv.org/abs/1704.04057](https://arxiv.org/abs/1704.04057)
+- github: [https://github.com/foolwood/DCFNet](https://github.com/foolwood/DCFNet)
+
+**End-to-end representation learning for Correlation Filter based tracking**
+
+- intro: CVPR 2017. University of Oxford
+- intro: Training a Correlation Filter end-to-end allows lightweight networks of 2 layers (600 kB) to achieve state-of-the-art performance in tracking, at high-speed.
+- project page: [http://www.robots.ox.ac.uk/~luca/cfnet.html](http://www.robots.ox.ac.uk/~luca/cfnet.html)
+- arxiv: [https://arxiv.org/abs/1704.06036](https://arxiv.org/abs/1704.06036)
+- gtihub: [https://github.com/bertinetto/cfnet](https://github.com/bertinetto/cfnet)
+
+**Context-Aware Correlation Filter Tracking**
+
+- intro: CVPR 2017 Oral
+- project page: [https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx](https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx)
+- paper: [https://ivul.kaust.edu.sa/Documents/Publications/2017/Context-Aware%20Correlation%20Filter%20Tracking.pdf](https://ivul.kaust.edu.sa/Documents/Publications/2017/Context-Aware%20Correlation%20Filter%20Tracking.pdf)
+- github: [https://github.com/thias15/Context-Aware-CF-Tracking](https://github.com/thias15/Context-Aware-CF-Tracking)
+
+**Robust Multi-view Pedestrian Tracking Using Neural Networks**
+
+[https://arxiv.org/abs/1704.06370](https://arxiv.org/abs/1704.06370)
+
+**Re3 : Real-Time Recurrent Regression Networks for Object Tracking**
+
+- intro: University of Washington
+- arxiv: [https://arxiv.org/abs/1705.06368](https://arxiv.org/abs/1705.06368)
+- demo: [https://www.youtube.com/watch?v=PC0txGaYz2I](https://www.youtube.com/watch?v=PC0txGaYz2I)
+
+**Robust Tracking Using Region Proposal Networks**
+
+[https://arxiv.org/abs/1705.10447](https://arxiv.org/abs/1705.10447)
+
+**Hierarchical Attentive Recurrent Tracking**
+
+- intro: NIPS 2017. University of Oxford
+- arxiv: [https://arxiv.org/abs/1706.09262](https://arxiv.org/abs/1706.09262)
+- github: [https://github.com/akosiorek/hart](https://github.com/akosiorek/hart)
+- results: [https://youtu.be/Vvkjm0FRGSs](https://youtu.be/Vvkjm0FRGSs)
+
+**Siamese Learning Visual Tracking: A Survey**
+
+[https://arxiv.org/abs/1707.00569](https://arxiv.org/abs/1707.00569)
+
+**Robust Visual Tracking via Hierarchical Convolutional Features**
+
+- project page: [https://sites.google.com/site/chaoma99/hcft-tracking](https://sites.google.com/site/chaoma99/hcft-tracking)
+- arxiv: [https://arxiv.org/abs/1707.03816](https://arxiv.org/abs/1707.03816)
+- github: [https://github.com/chaoma99/HCFTstar](https://github.com/chaoma99/HCFTstar)
+
+**CREST: Convolutional Residual Learning for Visual Tracking**
+
+- intro: ICCV 2017
+- project page: [http://www.cs.cityu.edu.hk/~yibisong/iccv17/index.html](http://www.cs.cityu.edu.hk/~yibisong/iccv17/index.html)
+- arxiv: [https://arxiv.org/abs/1708.00225](https://arxiv.org/abs/1708.00225)
+- github: [https://github.com/ybsong00/CREST-Release](https://github.com/ybsong00/CREST-Release)
+
+**Learning Policies for Adaptive Tracking with Deep Feature Cascades**
+
+- intro: ICCV 2017 Spotlight
+- arxiv: [https://arxiv.org/abs/1708.02973](https://arxiv.org/abs/1708.02973)
+
+**Recurrent Filter Learning for Visual Tracking**
+
+- intro: ICCV 2017 Workshop on VOT
+- arxiv: [https://arxiv.org/abs/1708.03874](https://arxiv.org/abs/1708.03874)
+
+**Correlation Filters with Weighted Convolution Responses**
+
+- intro: ICCV 2017 workshop. 5th visual object tracking(VOT) tracker CFWCR
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/He_Correlation_Filters_With_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/He_Correlation_Filters_With_ICCV_2017_paper.pdf)
+- github: [https://github.com/he010103/CFWCR](https://github.com/he010103/CFWCR)
+
+**Semantic Texture for Robust Dense Tracking**
+
+[https://arxiv.org/abs/1708.08844](https://arxiv.org/abs/1708.08844)
+
+**Learning Multi-frame Visual Representation for Joint Detection and Tracking of Small Objects**
+
+[https://arxiv.org/abs/1709.04666](https://arxiv.org/abs/1709.04666)
+
+**Tracking Persons-of-Interest via Unsupervised Representation Adaptation**
+
+- intro: Northwestern Polytechnical University & Virginia Tech & Hanyang University
+- keywords: Multi-face tracking
+- project page: [http://vllab1.ucmerced.edu/~szhang/FaceTracking/](http://vllab1.ucmerced.edu/~szhang/FaceTracking/)
+- arxiv: [https://arxiv.org/abs/1710.02139](https://arxiv.org/abs/1710.02139)
+
+**End-to-end Flow Correlation Tracking with Spatial-temporal Attention**
+
+[https://arxiv.org/abs/1711.01124](https://arxiv.org/abs/1711.01124)
+
+**UCT: Learning Unified Convolutional Networks for Real-time Visual Tracking**
+
+- intro: ICCV 2017 Workshops
+- arxiv: [https://arxiv.org/abs/1711.04661](https://arxiv.org/abs/1711.04661)
+
+**Pixel-wise object tracking**
+
+[https://arxiv.org/abs/1711.07377](https://arxiv.org/abs/1711.07377)
+
+**MAVOT: Memory-Augmented Video Object Tracking**
+
+[https://arxiv.org/abs/1711.09414](https://arxiv.org/abs/1711.09414)
+
+**Learning Hierarchical Features for Visual Object Tracking with Recursive Neural Networks**
+
+[https://arxiv.org/abs/1801.02021](https://arxiv.org/abs/1801.02021)
+
+**Parallel Tracking and Verifying**
+
+[https://arxiv.org/abs/1801.10496](https://arxiv.org/abs/1801.10496)
+
+**Saliency-Enhanced Robust Visual Tracking**
+
+[https://arxiv.org/abs/1802.02783](https://arxiv.org/abs/1802.02783)
+
+**A Twofold Siamese Network for Real-Time Object Tracking**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.08817](https://arxiv.org/abs/1802.08817)
+
+**Learning Dynamic Memory Networks for Object Tracking**
+
+[https://arxiv.org/abs/1803.07268](https://arxiv.org/abs/1803.07268)
+
+**Context-aware Deep Feature Compression for High-speed Visual Tracking**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.10537](https://arxiv.org/abs/1803.10537)
+
+**VITAL: VIsual Tracking via Adversarial Learning**
+
+- intro: CVPR 2018 Spotlight
+- arixv: [https://arxiv.org/abs/1804.04273](https://arxiv.org/abs/1804.04273)
+
+**Unveiling the Power of Deep Tracking**
+
+[https://arxiv.org/abs/1804.06833](https://arxiv.org/abs/1804.06833)
+
+**A Novel Low-cost FPGA-based Real-time Object Tracking System**
+
+- intro: ASICON 2017
+- arxiv: [https://arxiv.org/abs/1804.05535](https://arxiv.org/abs/1804.05535)
+
+**MV-YOLO: Motion Vector-aided Tracking by Semantic Object Detection**
+
+[https://arxiv.org/abs/1805.00107](https://arxiv.org/abs/1805.00107)
+
+**Information-Maximizing Sampling to Promote Tracking-by-Detection**
+
+[https://arxiv.org/abs/1806.02523](https://arxiv.org/abs/1806.02523)
+
+**Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks**
+
+- intro: MICCAI 2018
+- arxiv: [https://arxiv.org/abs/1806.02070](https://arxiv.org/abs/1806.02070)
+
+**Stochastic Channel Decorrelation Network and Its Application to Visual Tracking**
+
+[https://arxiv.org/abs/1807.01103](https://arxiv.org/abs/1807.01103)
+
+**Fast Dynamic Convolutional Neural Networks for Visual Tracking**
+
+[https://arxiv.org/abs/1807.03132](https://arxiv.org/abs/1807.03132)
+
+**DeepTAM: Deep Tracking and Mapping**
+
+[https://arxiv.org/abs/1808.01900](https://arxiv.org/abs/1808.01900)
+
+**Distractor-aware Siamese Networks for Visual Object Tracking**
+
+- intro: ECCV 2018
+- keywords: DaSiamRPN
+- arxiv: [https://arxiv.org/abs/1808.06048](https://arxiv.org/abs/1808.06048)
+- github: [https://github.com/foolwood/DaSiamRPN](https://github.com/foolwood/DaSiamRPN)
+
+**Multi-Branch Siamese Networks with Online Selection for Object Tracking**
+
+- intro: ISVC 2018 oral
+- arxiv: [https://arxiv.org/abs/1808.07349](https://arxiv.org/abs/1808.07349)
+
+**Real-Time MDNet**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.08834](https://arxiv.org/abs/1808.08834)
+
+**Towards a Better Match in Siamese Network Based Visual Object Tracker**
+
+- intro: ECCV Visual Object Tracking Challenge Workshop VOT2018
+- arxiv: [https://arxiv.org/abs/1809.01368](https://arxiv.org/abs/1809.01368)
+
+**DensSiam: End-to-End Densely-Siamese Network with Self-Attention Model for Object Tracking**
+
+- intro: ISVC 2018
+- arxiv: [https://arxiv.org/abs/1809.02714](https://arxiv.org/abs/1809.02714)
+
+**Deformable Object Tracking with Gated Fusion**
+
+[https://arxiv.org/abs/1809.10417](https://arxiv.org/abs/1809.10417)
+
+**Deep Attentive Tracking via Reciprocative Learning**
+
+- intro: NIPS 2018
+- project page: [https://ybsong00.github.io/nips18_tracking/index](https://ybsong00.github.io/nips18_tracking/index)
+- arxiv: [https://arxiv.org/abs/1810.03851](https://arxiv.org/abs/1810.03851)
+- github: [https://github.com/shipubupt/NIPS2018](https://github.com/shipubupt/NIPS2018)
+
+**Online Visual Robot Tracking and Identification using Deep LSTM Networks**
+
+- intro: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, Canada, 2017. IROS RoboCup Best Paper Award
+- arxiv: [https://arxiv.org/abs/1810.04941](https://arxiv.org/abs/1810.04941)
+
+**Detect or Track: Towards Cost-Effective Video Object Detection/Tracking**
+
+- intro: AAAI 2019
+- arxiv: [https://arxiv.org/abs/1811.05340](https://arxiv.org/abs/1811.05340)
+
+**Deep Siamese Networks with Bayesian non-Parametrics for Video Object Tracking**
+
+[https://arxiv.org/abs/1811.07386](https://arxiv.org/abs/1811.07386)
+
+**Fast Online Object Tracking and Segmentation: A Unifying Approach**
+
+- intro: CVPR 2019
+- preject page: [http://www.robots.ox.ac.uk/~qwang/SiamMask/](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
+- arxiv: [https://arxiv.org/abs/1812.05050](https://arxiv.org/abs/1812.05050)
+- github: [https://github.com/foolwood/SiamMask](https://github.com/foolwood/SiamMask)
+
+**Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking**
+
+- intro: Temple University
+- arxiv: [https://arxiv.org/abs/1812.06148](https://arxiv.org/abs/1812.06148)
+
+**Handcrafted and Deep Trackers: A Review of Recent Object Tracking Approaches**
+
+[https://arxiv.org/abs/1812.07368](https://arxiv.org/abs/1812.07368)
+
+**SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks**
+
+[https://arxiv.org/abs/1812.11703](https://arxiv.org/abs/1812.11703)
+
+**Deeper and Wider Siamese Networks for Real-Time Visual Tracking**
+
+[https://arxiv.org/abs/1901.01660](https://arxiv.org/abs/1901.01660)
+
+**SiamVGG: Visual Tracking using Deeper Siamese Networks**
+
+[https://arxiv.org/abs/1902.02804](https://arxiv.org/abs/1902.02804)
+
+**TrackNet: Simultaneous Object Detection and Tracking and Its Application in Traffic Video Analysis**
+
+[https://arxiv.org/abs/1902.01466](https://arxiv.org/abs/1902.01466)
+
+**Target-Aware Deep Tracking**
+
+- intro: CVPR 2019
+- intro: 1Harbin Institute of Technology &  Shanghai Jiao Tong University & Tencent AI Lab & University of California & Google Cloud AI
+- arxiv: [https://arxiv.org/abs/1904.01772](https://arxiv.org/abs/1904.01772)
+
+**Unsupervised Deep Tracking**
+
+- intro: CVPR 2019
+- intro: USTC & Tencent AI Lab & Shanghai Jiao Tong University
+- arxiv: [https://arxiv.org/abs/1904.01828](https://arxiv.org/abs/1904.01828)
+- github: [https://github.com/594422814/UDT](https://github.com/594422814/UDT)
+- github: [https://github.com/594422814/UDT_pytorch](https://github.com/594422814/UDT_pytorch)
+
+**Generic Multiview Visual Tracking**
+
+[https://arxiv.org/abs/1904.02553](https://arxiv.org/abs/1904.02553)
+
+**SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1904.04452](https://arxiv.org/abs/1904.04452)
+
+**A Strong Feature Representation for Siamese Network Tracker**
+
+[https://arxiv.org/abs/1907.07880](https://arxiv.org/abs/1907.07880)
+
+**Visual Tracking via Dynamic Memory Networks**
+
+- intro: TPAMI 2019
+- arxiv: [https://arxiv.org/abs/1907.07613](https://arxiv.org/abs/1907.07613)
+
+**Multi-Adapter RGBT Tracking**
+
+- arxiv: [https://arxiv.org/abs/1907.07485](https://arxiv.org/abs/1907.07485)
+- github: [https://github.com/Alexadlu/MANet](https://github.com/Alexadlu/MANet)
+
+**Teacher-Students Knowledge Distillation for Siamese Trackers**
+
+[https://arxiv.org/abs/1907.10586](https://arxiv.org/abs/1907.10586)
+
+**Tell Me What to Track**
+
+- intro: Boston University & Horizon Robotics & University of Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1907.11751](https://arxiv.org/abs/1907.11751)
+
+**Learning to Track Any Object**
+
+- intro: ICCV 2019 Holistic Video Understanding workshop
+- arxiv: [https://arxiv.org/abs/1910.11844](https://arxiv.org/abs/1910.11844)
+
+**ROI Pooled Correlation Filters for Visual Tracking**
+
+- intro: CVPR 2019
+- arxiv: [https://arxiv.org/abs/1911.01668](https://arxiv.org/abs/1911.01668)
+
+# Face Tracking
+
+**Mobile Face Tracking: A Survey and Benchmark**
+
+[https://arxiv.org/abs/1805.09749](https://arxiv.org/abs/1805.09749)
+
+# Multi-Object Tracking
+
+**Virtual Worlds as Proxy for Multi-Object Tracking Analysis**
+
+- arxiv: [http://arxiv.org/abs/1605.06457](http://arxiv.org/abs/1605.06457)
+- dataset(Virtual KITTI): [http://www.xrce.xerox.com/Research-Development/Computer-Vision/Proxy-Virtual-Worlds](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Proxy-Virtual-Worlds)
+
+**Multi-Class Multi-Object Tracking using Changing Point Detection**
+
+- intro: changing point detection, entity transition, object detection from video, convolutional neural network
+- arxiv: [http://arxiv.org/abs/1608.08434](http://arxiv.org/abs/1608.08434)
+
+**POI: Multiple Object Tracking with High Performance Detection and Appearance Feature**
+
+- intro: ECCV workshop BMTT 2016. Sensetime
+- keywords: KDNT
+- arxiv: [https://arxiv.org/abs/1610.06136](https://arxiv.org/abs/1610.06136)
+
+**Simple Online and Realtime Tracking with a Deep Association Metric**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1703.07402](https://arxiv.org/abs/1703.07402)
+- mot challenge: [https://motchallenge.net/tracker/DeepSORT_2](https://motchallenge.net/tracker/DeepSORT_2)
+- github(official, Python): [https://github.com/nwojke/deep_sort](https://github.com/nwojke/deep_sort)
+- github(C++): [https://github.com/oylz/ds](https://github.com/oylz/ds)
+
+**Multiple Object Tracking: A Literature Review**
+
+- intro: last revised 22 May 2017 (this version, v4)
+- arxiv: [https://arxiv.org/abs/1409.7618](https://arxiv.org/abs/1409.7618)
+
+**Deep Network Flow for Multi-Object Tracking**
+
+- intro: CVPR 2017
+- arxiv: [https://arxiv.org/abs/1706.08482](https://arxiv.org/abs/1706.08482)
+
+**Online Multi-Object Tracking Using CNN-based Single Object Tracker with Spatial-Temporal Attention Mechanism**
+
+[https://arxiv.org/abs/1708.02843](https://arxiv.org/abs/1708.02843)
+
+**Recurrent Autoregressive Networks for Online Multi-Object Tracking**
+
+[https://arxiv.org/abs/1711.02741](https://arxiv.org/abs/1711.02741)
+
+**SOT for MOT**
+
+- intro: Tsinghua University & Megvii Inc. (Face++)
+- arxiv: [https://arxiv.org/abs/1712.01059](https://arxiv.org/abs/1712.01059)
+
+**Multi-Target, Multi-Camera Tracking by Hierarchical Clustering: Recent Progress on DukeMTMC Project**
+
+[https://arxiv.org/abs/1712.09531](https://arxiv.org/abs/1712.09531)
+
+**Multiple Target Tracking by Learning Feature Representation and Distance Metric Jointly**
+
+[https://arxiv.org/abs/1802.03252](https://arxiv.org/abs/1802.03252)
+
+**Tracking Noisy Targets: A Review of Recent Object Tracking Approaches**
+
+[https://arxiv.org/abs/1802.03098](https://arxiv.org/abs/1802.03098)
+
+**Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking**
+
+- intro: University of Florida
+- arxiv: [https://arxiv.org/abs/1802.06897](https://arxiv.org/abs/1802.06897)
+
+**Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World**
+
+- intro: University of Modena and Reggio Emilia
+- arxiv: [https://arxiv.org/abs/1803.08319](https://arxiv.org/abs/1803.08319)
+
+**Features for Multi-Target Multi-Camera Tracking and Re-Identification**
+
+- intro: CVPR 2018 spotlight
+- intro: [https://arxiv.org/abs/1803.10859](https://arxiv.org/abs/1803.10859)
+
+**High Performance Visual Tracking with Siamese Region Proposal Network**
+
+- intro: CVPR 2018 spotlight
+- keywords: SiamRPN
+- paper: [http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf)
+- slides: [https://drive.google.com/file/d/1OGIOUqANvYfZjRoQfpiDqhPQtOvPCpdq/view](https://drive.google.com/file/d/1OGIOUqANvYfZjRoQfpiDqhPQtOvPCpdq/view)
+
+**Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking**
+
+- intro: Peking University
+- arxiv: [https://arxiv.org/abs/1804.04555](https://arxiv.org/abs/1804.04555)
+
+**Automatic Adaptation of Person Association for Multiview Tracking in Group Activities**
+
+- intro: Carnegie Mellon University & Argo AI & Adobe Research
+- project page: [http://www.cs.cmu.edu/~ILIM/projects/IM/Association4Tracking/](http://www.cs.cmu.edu/~ILIM/projects/IM/Association4Tracking/)
+- arxiv: [https://arxiv.org/abs/1805.08717](https://arxiv.org/abs/1805.08717)
+
+**Improving Online Multiple Object tracking with Deep Metric Learning**
+
+[https://arxiv.org/abs/1806.07592](https://arxiv.org/abs/1806.07592)
+
+**Tracklet Association Tracker: An End-to-End Learning-based Association Approach for Multi-Object Tracking**
+
+- intro: Tsinghua Univeristy & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1808.01562](https://arxiv.org/abs/1808.01562)
+
+**Multiple Object Tracking in Urban Traffic Scenes with a Multiclass Object Detector**
+
+- intro: 13th International Symposium on Visual Computing (ISVC)
+- arxiv: [https://arxiv.org/abs/1809.02073](https://arxiv.org/abs/1809.02073)
+
+**Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers**
+
+[https://arxiv.org/abs/1809.03137](https://arxiv.org/abs/1809.03137)
+
+**Deep Affinity Network for Multiple Object Tracking**
+
+- intro: IEEE TPAMI 2018
+- arxiv: [https://arxiv.org/abs/1810.11780](https://arxiv.org/abs/1810.11780)
+- github: [https://github.com/shijieS/SST](https://github.com/shijieS/SST)
+
+**Exploit the Connectivity: Multi-Object Tracking with TrackletNet**
+
+[https://arxiv.org/abs/1811.07258](https://arxiv.org/abs/1811.07258)
+
+**Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification**
+
+- intro: Sensetime Group Limited & Beihang University & The University of Sydney
+- arxiv: [https://arxiv.org/abs/1901.06129](https://arxiv.org/abs/1901.06129)
+
+**Online Multi-Object Tracking with Dual Matching Attention Networks**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1902.00749](https://arxiv.org/abs/1902.00749)
+
+**MOTS: Multi-Object Tracking and Segmentation**
+
+- intro: RWTH Aachen University
+- keywords: TrackR-CNN
+- arxiv: [https://arxiv.org/abs/1902.03604](https://arxiv.org/abs/1902.03604)
+
+**Online Multi-Object Tracking with Instance-Aware Tracker and Dynamic Model Refreshment**
+
+[https://arxiv.org/abs/1902.08231](https://arxiv.org/abs/1902.08231)
+
+**Tracking without bells and whistles**
+
+- intro: Technical University of Munich
+- keywords: Tracktor
+- arxiv: [https://arxiv.org/abs/1903.05625](https://arxiv.org/abs/1903.05625)
+- github: [https://github.com/phil-bergmann/tracking_wo_bnw](https://github.com/phil-bergmann/tracking_wo_bnw)
+
+**Spatial-Temporal Relation Networks for Multi-Object Tracking**
+
+- intro: Hong Kong University of Science and Technology & Tsinghua University & MSRA
+- arxiv: [https://arxiv.org/abs/1904.11489](https://arxiv.org/abs/1904.11489)
+
+**Fooling Detection Alone is Not Enough: First Adversarial Attack against Multiple Object Tracking**
+
+- intro: Baidu X-Lab & UC Irvine
+- arxiv: [https://arxiv.org/abs/1905.11026](https://arxiv.org/abs/1905.11026)
+
+**State-aware Re-identification Feature for Multi-target Multi-camera Tracking**
+
+- intro: CVPR-2019 TRMTMCT Workshop
+- intro: BUPT & Chinese Academy of Sciences & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1906.01357](https://arxiv.org/abs/1906.01357)
+
+**DeepMOT: A Differentiable Framework for Training Multiple Object Trackers**
+
+- intro: Inria
+- keywords: deep Hungarian network (DHN)
+- arxiv: [https://arxiv.org/abs/1906.06618](https://arxiv.org/abs/1906.06618)
+- gitlab: [https://gitlab.inria.fr/yixu/deepmot](https://gitlab.inria.fr/yixu/deepmot)
+
+**Graph Neural Based End-to-end Data Association Framework for Online Multiple-Object Tracking**
+
+- intro: Beihang University && Inception Institute of Artificial Intelligence
+- arxiv: [https://arxiv.org/abs/1907.05315](https://arxiv.org/abs/1907.05315)
+
+**End-to-End Learning Deep CRF models for Multi-Object Tracking**
+
+[https://arxiv.org/abs/1907.12176](https://arxiv.org/abs/1907.12176)
+
+**End-to-end Recurrent Multi-Object Tracking and Trajectory Prediction with Relational Reasoning**
+
+- intro: University of Oxford
+- arxiv: [https://arxiv.org/abs/1907.12887](https://arxiv.org/abs/1907.12887)
+
+**Robust Multi-Modality Multi-Object Tracking**
+
+- intro: ICCV 2019
+- arxiv: [https://arxiv.org/abs/1909.03850](https://arxiv.org/abs/1909.03850)
+- github: [https://github.com/ZwwWayne/mmMOT](https://github.com/ZwwWayne/mmMOT)
+
+**Towards Real-Time Multi-Object Tracking**
+
+- intro: Tsinghua University & Austrilian National University
+- arxiv: [https://arxiv.org/abs/1909.12605](https://arxiv.org/abs/1909.12605)
+- github: [https://github.com/Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT)
+
+# Multiple People Tracking
+
+**Multi-Person Tracking by Multicut and Deep Matching**
+
+- intro: Max Planck Institute for Informatics
+- arxiv: [http://arxiv.org/abs/1608.05404](http://arxiv.org/abs/1608.05404)
+
+**Joint Flow: Temporal Flow Fields for Multi Person Tracking**
+
+- intro: University of Bonn
+- arxiv: [https://arxiv.org/abs/1805.04596](https://arxiv.org/abs/1805.04596)
+
+**Multiple People Tracking by Lifted Multicut and Person Re-identification**
+
+- intro: CVPR 2017
+- intro: Max Planck Institute for Informatics & Max Planck Institute for Intelligent Systems
+- paper: [http://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)
+- code: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/multiple-people-tracking-with-lifted-multicut-and-person-re-identification/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/multiple-people-tracking-with-lifted-multicut-and-person-re-identification/)
+
+**Tracking by Prediction: A Deep Generative Model for Mutli-Person localisation and Tracking**
+
+- intro: WACV 2018
+- intro: Queensland University of Technology (QUT)
+- arxiv: [https://arxiv.org/abs/1803.03347](https://arxiv.org/abs/1803.03347)
+
+**Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification**
+
+- intro: ICME 2018
+- arxiv: [https://arxiv.org/abs/1809.04427](https://arxiv.org/abs/1809.04427)
+- github: [https://github.com/longcw/MOTDT](https://github.com/longcw/MOTDT)
+
+**Deep Person Re-identification for Probabilistic Data Association in Multiple Pedestrian Tracking**
+
+[https://arxiv.org/abs/1810.08565](https://arxiv.org/abs/1810.08565)
+
+**Multiple People Tracking Using Hierarchical Deep Tracklet Re-identification**
+
+[https://arxiv.org/abs/1811.04091](https://arxiv.org/abs/1811.04091)
+
+**Multi-person Articulated Tracking with Spatial and Temporal Embeddings**
+
+- intro: CVPR 2019
+- intro: SenseTime Research & The University of Sydney & SenseTime Computer Vision Research Group
+- arxiv: [https://arxiv.org/abs/1903.09214](https://arxiv.org/abs/1903.09214)
+
+**Instance-Aware Representation Learning and Association for Online Multi-Person Tracking**
+
+- intro: Pattern Recognition
+- intro: Sun Yat-sen University & Guangdong University of Foreign Studies & Carnegie Mellon University & University of California & Guilin University of Electronic Technology & WINNER Technology
+- arxiv: [https://arxiv.org/abs/1905.12409](https://arxiv.org/abs/1905.12409)
+
+**Online Multiple Pedestrian Tracking using Deep Temporal Appearance Matching Association**
+
+- intro: 2nd ranked tracker of the MOTChallenge on CVPR19 workshop
+- arxiv: [https://arxiv.org/abs/1907.00831](https://arxiv.org/abs/1907.00831)
+
+# Tracking with Reinforcement Learning
+
+**Deep Reinforcement Learning for Visual Object Tracking in Videos**
+
+- intro: University of California at Santa Barbara & Samsung Research America
+- arxiv: [https://arxiv.org/abs/1701.08936](https://arxiv.org/abs/1701.08936)
+
+**Visual Tracking by Reinforced Decision Making**
+
+- arxiv: [https://arxiv.org/abs/1702.06291](https://arxiv.org/abs/1702.06291)
+
+**End-to-end Active Object Tracking via Reinforcement Learning**
+
+[https://arxiv.org/abs/1705.10561](https://arxiv.org/abs/1705.10561)
+
+**Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning**
+
+- project page: [https://sites.google.com/view/cvpr2017-adnet](https://sites.google.com/view/cvpr2017-adnet)
+- paper: [https://drive.google.com/file/d/0B34VXh5mZ22cZUs2Umc1cjlBMFU/view?usp=drive_web](https://drive.google.com/file/d/0B34VXh5mZ22cZUs2Umc1cjlBMFU/view?usp=drive_web)
+
+**Tracking as Online Decision-Making: Learning a Policy from Streaming Videos with Reinforcement Learning**
+
+[https://arxiv.org/abs/1707.04991](https://arxiv.org/abs/1707.04991)
+
+**Detect to Track and Track to Detect**
+
+- intro: ICCV 2017
+- project page: [https://www.robots.ox.ac.uk/~vgg/research/detect-track/](https://www.robots.ox.ac.uk/~vgg/research/detect-track/)
+- arxiv: [https://arxiv.org/abs/1710.03958](https://arxiv.org/abs/1710.03958)
+- github: [https://github.com/feichtenhofer/Detect-Track](https://github.com/feichtenhofer/Detect-Track)
+
+# Projects
+
+**Tensorflow_Object_Tracking_Video**
+
+- intro: Object Tracking in Tensorflow ( Localization Detection Classification ) developed to partecipate to ImageNET VID competition
+- github: [https://github.com/DrewNF/Tensorflow_Object_Tracking_Video](https://github.com/DrewNF/Tensorflow_Object_Tracking_Video)
+
+# Resources
+
+**Multi-Object-Tracking-Paper-List**
+
+- intro: Paper list and source code for multi-object-tracking
+- github: [https://github.com/SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list)
